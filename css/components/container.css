@@ -1,0 +1,23 @@
+.container{
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.container h2 {
+	font-family: lacquer;
+	font-size: 28px;
+}
+
+.container h3 {
+	font-size: 20px;
+}
+
+.container h4 {
+	font-size: 18px;
+	font-style: italic bold;
+	color: #2B3C70;
+}
+
+.container p {
+	font-size: 16px;
+}

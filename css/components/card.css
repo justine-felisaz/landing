@@ -1,0 +1,51 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+
+
+.card1{
+	justify-content: space-around;
+	align-items: center;
+	margin: 10px 30px;
+	text-align: center;
+	background-color: rgb(250, 249, 218, 0.8);
+	display: flex;
+}
+
+.card1 i{
+	font-size: 30px;
+	box-shadow: 0px 0px 20px 5px rgb(250, 249, 218);
+	margin: 5px;
+}
+
+.card2{
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgb(0, 0, 0, 0.2);
+	border-radius: 6px;
+	margin: 10px 10px;
+	flex-basis: 100px
+	flex-grow: 1;
+	background: #07052B;
+
+}
+
+.card2 img {
+	width: 250px;
+	border-radius: 6px;
+	padding-right: 30px;
+}
+
+.card2 p {
+	flex-grow: 0;
+	font-size: 20px;
+	padding-right: 30px;
+	color: white;
+
+}
+

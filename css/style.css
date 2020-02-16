@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Lacquer|Raleway|Tomorrow&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body{
+	font-family: Raleway;
+	margin: 0px;
+	background-color: #D2D9F0;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #F0BF47;
+}
+ul{
+	list-style-type: none;
+	padding: 0px 0px;
+	margin: 0px 0px;
+}
+

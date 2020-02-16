@@ -1,0 +1,29 @@
+.banner {
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../images/blue.jpg);
+	color: white;
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+	margin: 0px;
+}
+
+.banner h1 {
+	font-size: 80px;
+	text-align: center;
+	margin-top: 10px;
+	color: #C1C9EB;
+	opacity: 0.6;
+	font-family: lacquer;
+}
+
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 50px;
+	text-align: center;
+	color: #F0EEB1;
+	font-family: raleway;
+
+}
+
